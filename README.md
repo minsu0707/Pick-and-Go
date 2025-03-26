@@ -1,12 +1,3 @@
-# React + Vite
+# Pick and Go
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Pick and Go는 여러 유용한 사이트를 한곳에서 편리하게 관리하고 접근할 수 있는 사이트 통합 서비스입니다. 사용자는 이 서비스에서 자신만의 맞춤 북마크를 카테고리별로 정리하고, 빠르게 검색하여 원하는 사이트를 즉시 방문할 수 있습니다.
